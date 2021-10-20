@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I'm currently studying Computer Science at SIUE (Graduate May 2023)
 - ⚙️ Some of my skills include: Python, C, Java, Javascript, and MongoDB, 
-- 🌱 Currently learning about Operating Systems, Data Structures and Algorithms, Javascript, Express.js, React, C#
+- 🌱 Currently learning about Operating Systems, Data Structures and Algorithms, Javascript, Express.js, React, C#, Android Development
 - 😃 Hobbies include: Reading, Longboarding, Running, Music
 
 
